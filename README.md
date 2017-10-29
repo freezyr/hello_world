@@ -1,4 +1,4 @@
 # hello_world
 Just a try
 
-I want to learn proggrame!
+I want to learn programme!
